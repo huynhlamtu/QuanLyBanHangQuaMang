@@ -1,0 +1,8 @@
+Đã tạo đơn đặt hàng thành công
+Đơn đặt hàng vừa tạo sẽ mặc định là trống, tiến hành thêm mặt hàng đặt
+Hóa đơn sẽ kết thừa các thông tin từ phiếu đặt hàng, hóa đơn chi tiết sẽ kế thừa từ phiếu đặt hàng chi tiết
+Tiến hành kiểm tra...
+Thông tin hóa đơn chi tiết đã được lưu đúng
+Tương tự, thôgn tin đơn giao hàng sẽ được kế thừa từ thông tin hóa đơn và phiếu đặt hàng
+Kiểm tra...
+Phiếu giao và phiếu giao chi tiết đã được tạo thành công!

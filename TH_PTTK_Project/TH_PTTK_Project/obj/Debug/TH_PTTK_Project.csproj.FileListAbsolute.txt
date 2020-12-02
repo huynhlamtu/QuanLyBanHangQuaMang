@@ -1,0 +1,32 @@
+C:\Users\chane\source\repos\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.csprojAssemblyReference.cache
+C:\Users\chane\source\repos\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.AddDonDatHang.resources
+C:\Users\chane\source\repos\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.Properties.Resources.resources
+C:\Users\chane\source\repos\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.csproj.GenerateResource.cache
+C:\Users\chane\source\repos\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.csproj.CoreCompileInputs.cache
+C:\Users\chane\source\repos\TH_PTTK_Project\TH_PTTK_Project\bin\Debug\TH_PTTK_Project.exe.config
+C:\Users\chane\source\repos\TH_PTTK_Project\TH_PTTK_Project\bin\Debug\TH_PTTK_Project.exe
+C:\Users\chane\source\repos\TH_PTTK_Project\TH_PTTK_Project\bin\Debug\TH_PTTK_Project.pdb
+C:\Users\chane\source\repos\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.exe
+C:\Users\chane\source\repos\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.pdb
+C:\Users\chane\source\repos\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.AddPhieuDHChiTiet.resources
+C:\Users\chane\source\repos\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.ImportHoaDon.resources
+C:\Users\chane\source\repos\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.Main.resources
+C:\Users\chane\source\repos\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.HoaDonCTList.resources
+C:\Users\chane\source\repos\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.ImportPhieuGiaoHang.resources
+C:\Users\chane\source\repos\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.PhieuGiaoHangDetail.resources
+E:\Năm 3\PTTK HTTT\Đồ án thực hành\TH_PTTK_Project\TH_PTTK_Project\bin\Debug\TH_PTTK_Project.exe.config
+E:\Năm 3\PTTK HTTT\Đồ án thực hành\TH_PTTK_Project\TH_PTTK_Project\bin\Debug\TH_PTTK_Project.exe
+E:\Năm 3\PTTK HTTT\Đồ án thực hành\TH_PTTK_Project\TH_PTTK_Project\bin\Debug\TH_PTTK_Project.pdb
+E:\Năm 3\PTTK HTTT\Đồ án thực hành\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.csprojAssemblyReference.cache
+E:\Năm 3\PTTK HTTT\Đồ án thực hành\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.AddDonDatHang.resources
+E:\Năm 3\PTTK HTTT\Đồ án thực hành\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.AddPhieuDHChiTiet.resources
+E:\Năm 3\PTTK HTTT\Đồ án thực hành\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.HoaDonCTList.resources
+E:\Năm 3\PTTK HTTT\Đồ án thực hành\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.ImportHoaDon.resources
+E:\Năm 3\PTTK HTTT\Đồ án thực hành\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.ImportPhieuGiaoHang.resources
+E:\Năm 3\PTTK HTTT\Đồ án thực hành\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.Main.resources
+E:\Năm 3\PTTK HTTT\Đồ án thực hành\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.PhieuGiaoHangDetail.resources
+E:\Năm 3\PTTK HTTT\Đồ án thực hành\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.Properties.Resources.resources
+E:\Năm 3\PTTK HTTT\Đồ án thực hành\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.csproj.GenerateResource.cache
+E:\Năm 3\PTTK HTTT\Đồ án thực hành\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.csproj.CoreCompileInputs.cache
+E:\Năm 3\PTTK HTTT\Đồ án thực hành\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.exe
+E:\Năm 3\PTTK HTTT\Đồ án thực hành\TH_PTTK_Project\TH_PTTK_Project\obj\Debug\TH_PTTK_Project.pdb
